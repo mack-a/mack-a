@@ -1,5 +1,6 @@
 
 - 一个技术爱好者🌱
+- 一个社会现状关注着🌱
 - 欢迎加入[TG群交流](https://t.me/technologyshare)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mack-a&hide=["contribs","prs"])
