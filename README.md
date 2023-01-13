@@ -2,7 +2,8 @@
 - [博客](https://www.v2ray-agent.com)
 
 
-![Anurag's github stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mack-a&hide=contribs,prs))
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mack-a&show_icons=true&theme=transparent)
+
 
 <!--
 **mack-a/mack-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
